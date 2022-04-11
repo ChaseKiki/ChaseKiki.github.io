@@ -88,14 +88,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/Else/</loc>
+    <loc>http://example.com/tags/Diary/</loc>
     <lastmod>2022-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Diary/</loc>
+    <loc>http://example.com/tags/Else/</loc>
     <lastmod>2022-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
