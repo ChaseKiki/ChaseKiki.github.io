@@ -2,30 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/10/01/10-1Record/</loc>
+    <loc>http://example.com/2022/02/28/2022-02-28/</loc>
     
-    <lastmod>2021-11-28</lastmod>
+    <lastmod>2022-04-11</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/10/07/2021-10-07/</loc>
+    <loc>http://example.com/2022/04/11/2022-4-11/</loc>
     
-    <lastmod>2021-11-28</lastmod>
+    <lastmod>2022-04-11</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/2021/11/24/2021-11-24/</loc>
     
-    <lastmod>2021-11-28</lastmod>
+    <lastmod>2022-04-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/10/01/10-1Record/</loc>
+    
+    <lastmod>2022-04-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/10/07/2021-10-07/</loc>
+    
+    <lastmod>2022-04-11</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/about/index.html</loc>
     
-    <lastmod>2021-10-01</lastmod>
+    <lastmod>2022-04-11</lastmod>
     
   </url>
   
@@ -60,7 +74,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2021-11-28</lastmod>
+    <lastmod>2022-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,14 +82,28 @@
   
   <url>
     <loc>http://example.com/tags/Half-Man/</loc>
-    <lastmod>2021-11-28</lastmod>
+    <lastmod>2022-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Else/</loc>
-    <lastmod>2021-11-28</lastmod>
+    <lastmod>2022-04-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Diary/</loc>
+    <lastmod>2022-04-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Break-and-Repair/</loc>
+    <lastmod>2022-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
